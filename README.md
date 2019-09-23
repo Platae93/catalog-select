@@ -75,6 +75,6 @@ Below is a description of the parameters required by the component
       
       
       
-##Use the component directly as an html element directive:
+## Use the component directly as an html element directive:
 
     <catalog-select></catalog-select>
